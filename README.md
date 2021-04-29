@@ -1,6 +1,6 @@
 # Heart-Failure
 
-One is every five people will develop heart failure, and 50% of heart failure patients die in 5 years. Heart failure occurs when the heart cannot pump enough blood to meet the needs of body. With help of avaliable EMR, we could design a robust system which will able to predict the possibility of heart failure accurately.
+One is every five people will develop heart failure, and 50% of heart failure patients die in 5 years. Heart failure occurs when the heart cannot pump enough blood to meet the needs of body. With help of avaliable EMR, we could design a robust system which will be able to predict the possibility of heart failure accurately.
 
 
 ## Data Set 
