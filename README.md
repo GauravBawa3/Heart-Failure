@@ -1,7 +1,6 @@
 # Heart-Failure
 
-One is every five people will develop heart failure, and 50% of heart failure patients die in 5 years. Heart failure occures when the heart cannot pump enough blood to meet the needs of body. With help of EMR, we could design a robust system which works efficiently and will able to predict the possibility of heart failure accurately.
-
+One is every five people will develop heart failure, and 50% of heart failure patients die in 5 years. Heart failure occures when the heart cannot pump enough blood to meet the needs of body. With help of avaliable EMR, we could design a robust system which will able to predict the possibility of heart failure accurately.
 
 
 ## Data Set 
@@ -9,6 +8,7 @@ One is every five people will develop heart failure, and 50% of heart failure pa
 This dataset was taken from UCI Machine Learning Repository. The dataset contains the medical records of 299 patients who had heart failure, collected during their follow-up period, where each patient profile has 13 clinical features.
 
 Link: https://archive.ics.uci.edu/ml/machine-learning-databases/00519/heart_failure_clinical_records_dataset.csv
+
 
 ## Data Description
 
